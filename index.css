@@ -19,7 +19,7 @@ html {
 
 body {
 	font-family: "PT Sans";
-	text-align: center;
+	text-align: left;
 	padding-top: 50px;
 	color: darken(#f2f2f2, 65%);
 	
@@ -46,7 +46,7 @@ li {
 
 .wrapper {
 	position: relative;
-	text-align: center;
+	text-align: left;
 	display: inline-block;
 	width: 550px;
 	height: 300px;
@@ -60,7 +60,7 @@ li {
 	display: flex;
 	flex-direction: column;
 	cursor: pointer;
-	text-align: center;
+	text-align: left;
 }
 
 .item {
