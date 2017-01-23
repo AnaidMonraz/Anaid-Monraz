@@ -41,11 +41,12 @@ span {
 span:nth-child(2) {
   margin: 3px 0;
 }
+/*when clicked border changes purple*/
 .open {
   border-color: #a866ee;
 }
 .open span {
-  background: #fff;
+  background: #a866ee;
 }
 .open :first-child {
   transform: translateY(5px) rotate(-45deg);
