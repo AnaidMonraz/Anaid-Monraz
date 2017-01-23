@@ -17,6 +17,7 @@ p{
   font-family: "Comic Sans MS", cursive, sans-serif
 }
 /* http://demos.uilang.com/hamburger-menu/style.css */
+/*border is rgba(0,40,60,.2)*/
 a {
   position: absolute;
   top: 20px;
@@ -27,14 +28,15 @@ a {
   box-sizing: border-box;
   padding: 11px 0 0 9px;
   border-radius: 50%;
-  border: 1px solid rgba(0,40,60,.2);
+  border: 1px solid #a866ee;
   tap-highlight-color: transparent;
 }
+/*background is rgb(0,40,60)*/
 span {
   display: block;
   width: 16px;
   height: 2px;
-  background: rgb(0,40,60);
+  background: #a866ee;
   transition: .7s;
   pointer-events: none;
 }
