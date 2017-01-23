@@ -4,14 +4,17 @@ background-color: #a866ee;
 h1{
   text-align: center;
   color: #a866ee;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 h3{
   text-align: center;
   color: #a866ee;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 p{
   text-align: center;
   color: #a866ee;
+  font-family: "Comic Sans MS", cursive, sans-serif
 }
 /* http://demos.uilang.com/hamburger-menu/style.css */
 a {
