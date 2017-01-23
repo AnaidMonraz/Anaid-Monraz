@@ -42,7 +42,7 @@ span:nth-child(2) {
   margin: 3px 0;
 }
 .open {
-  border-color: rgba(255,255,255,.2);
+  border-color: #a866ee;
 }
 .open span {
   background: #fff;
