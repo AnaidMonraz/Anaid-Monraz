@@ -3,17 +3,17 @@ background-color: #a866ee;
 }
 h1{
   text-align: center;
-  color: #a866ee;
+  color: #4f1091;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 h3{
   text-align: center;
-  color: #a866ee;
+  color: #4f1091;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 p{
   text-align: center;
-  color: #a866ee;
+  color: #4f1091;
   font-family: "Comic Sans MS", cursive, sans-serif
 }
 /* http://demos.uilang.com/hamburger-menu/style.css */
@@ -36,7 +36,7 @@ span {
   display: block;
   width: 16px;
   height: 2px;
-  background: #a866ee;
+  background: #4f1091;
   transition: .7s;
   pointer-events: none;
 }
