@@ -22,10 +22,9 @@ p{
   color: #4f1091;
   font-family: "Comic Sans MS", cursive, sans-serif
 }
-img.displayed{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#section{
+  width: 1225px;
+  padding: 0px;
 }
 /* http://demos.uilang.com/hamburger-menu/style.css */
 /*border is rgba(0,40,60,.2)*/
