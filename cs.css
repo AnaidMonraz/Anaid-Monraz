@@ -1,4 +1,4 @@
-header{background: "stars.jpg";
+header{background: url('stars.jpg') 100%/100%;
 }
 #header{
   background-image: stars.jpg;
