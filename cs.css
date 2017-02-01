@@ -1,7 +1,5 @@
-header{background: url('stars.jpg') 100%/100%;
-}
 #header{
-  background-image: stars.jpg;
+  background-color: #4f1091;
   color: white;
   text-align: center;
   padding: 16px;
