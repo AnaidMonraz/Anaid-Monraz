@@ -29,6 +29,15 @@ p{
   color: #a866ee;
   font-family: "Comic Sans MS", cursive, sans-serif
 }
+#header{
+  background-color: #4f1091;
+  text-align: center;
+  padding: 16px;
+}
+#section{
+  width: 1225px;
+  padding: 0px;
+}
 /* http://demos.uilang.com/hamburger-menu/style.css */
 /*border is rgba(0,40,60,.2)*/
 a {
