@@ -23,10 +23,11 @@ h3{
 li {
 	list-style: none;
 	font-weight: bold;
+	color: #a866ee;
 }
 p{
   text-align: center;
-  color: #a866ee;
+  color: #4f1091;
   font-family: "Comic Sans MS", cursive, sans-serif
 }
 #header{
