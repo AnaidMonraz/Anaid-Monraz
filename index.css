@@ -39,6 +39,9 @@ p{
   width: 1225px;
   padding: 0px;
 }
+.photo{
+  vertical-align: middle
+}
 /* http://demos.uilang.com/hamburger-menu/style.css */
 /*border is rgba(0,40,60,.2)*/
 a {
