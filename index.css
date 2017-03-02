@@ -39,6 +39,10 @@ p{
   text-align: center;
   padding: 16px;
 }
+#section{
+  width: 1225px;
+  padding: 0px;
+}
 .photo{
   vertical-align: middle
 }
