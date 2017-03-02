@@ -46,11 +46,10 @@ p{
 .photo{
   vertical-align: middle
 }
-#link{
-}
+
 /* http://demos.uilang.com/hamburger-menu/style.css */
 /*CSS from this website http://codepen.io/atelierbram/pen/bHlBD*/
-a {
+nav:a {
   position: absolute;
   top: 20px;
   left: 20px;
