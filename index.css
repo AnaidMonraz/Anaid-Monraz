@@ -47,9 +47,12 @@ p{
   vertical-align: middle
 }
 
+.section a{
+}
+
 /* http://demos.uilang.com/hamburger-menu/style.css */
 /*CSS from this website http://codepen.io/atelierbram/pen/bHlBD*/
-nav a {
+a {
   position: absolute;
   top: 20px;
   left: 20px;
